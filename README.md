@@ -8,7 +8,7 @@ disparity images: https://drive.google.com/drive/folders/1_g6kKhGqzHe1JkU09bsRRj
 segmentation images: https://drive.google.com/drive/folders/198LPuSgW0rwIE-_aJb0YewSJ4bsGTHUG?usp=drive_link
                                       
 
-After downloading, please change the path in line 117:
+After downloading, please change the path in line 117,118,119:
 
 '/mnt/data/teamAI/duong/2023_6_28_15_19_51-20230711T032031Z-001/2023_6_28_15_19_51/5/camera_1' is path to folder camera_1  in segmentation images link
 
