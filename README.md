@@ -1,9 +1,9 @@
 # DemoDepth
 this repo is demo for stereo depth estimation
 
-Please download folder which contains disparity images: https://drive.google.com/drive/folders/1_g6kKhGqzHe1JkU09bsRRjCCsZAQdDrV?usp=drive_link
-                                      
-                                      segmentation images: https://drive.google.com/drive/folders/198LPuSgW0rwIE-_aJb0YewSJ4bsGTHUG?usp=drive_link
+Please download folder which contains 
+disparity images: https://drive.google.com/drive/folders/1_g6kKhGqzHe1JkU09bsRRjCCsZAQdDrV?usp=drive_li
+segmentation images: https://drive.google.com/drive/folders/198LPuSgW0rwIE-_aJb0YewSJ4bsGTHUG?usp=drive_link
                                       
 
 After downloading, please change the path in line 117:
